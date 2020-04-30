@@ -1,0 +1,24 @@
+DefaultContentLanguage = "ja"
+languageCode = "ja-JP"
+
+baseURL = "/"
+title = "yussi laboratory"
+theme = "mainroad"
+
+[Params]
+  description = "備忘録用メモサイト"
+  twitter_cards = true
+  readmore = true
+
+[Params.sidebar]
+  home = "right"
+  list = "left"
+  single = "right"
+  widgets = ["social", "recent", "taglist"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  twitter = "yussi_macs"
