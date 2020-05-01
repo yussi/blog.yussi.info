@@ -3,7 +3,7 @@ languageCode = "ja-JP"
 
 baseURL = "/"
 title = "yussi laboratory"
-theme = "mainroad"
+theme = "hugo_theme_robust"
 
 [Params]
   description = "備忘録用メモサイト"
