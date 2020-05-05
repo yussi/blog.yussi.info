@@ -1,8 +1,9 @@
 DefaultContentLanguage = "ja"
 languageCode = "ja-JP"
+hasCJKLanguage = true
 
 baseURL = "/"
-title = "yussi laboratory"
+title = "なぜかサイバーと呼ばれています"
 theme = "hugo_theme_robust"
 
 [Params]
@@ -11,8 +12,8 @@ theme = "hugo_theme_robust"
   readmore = true
   enableHighlight = true # highlight.js option
 
-[params.author]
-#thumbnail = "images/author.jpg"
+[Params.author]
+thumbnail = "images/author.jpg"
 name = "yussi"
 description = "<p>趣味はコンピュータ、カメラ、ラジオ、鉄道旅行など。思いついたことを適当に書きます。</p>"
 twitter = "https://twitter.com/yussi_macs"
@@ -20,3 +21,6 @@ github = "https://github.com/yussi"
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
+
+[taxonomies]
+category = "categories"
