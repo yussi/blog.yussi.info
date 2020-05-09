@@ -5,6 +5,7 @@ title: 福山雅治のJET STREAMのStay Homeメッセージ
 toc: False
 categories:
  - "radio"
+draft: True
 ---
 ## JET STREAM 6代目機長 福山雅治
 2020年3月31日から、FM番組 JET STREAMのパーソナリティ(機長)が福山雅治になりました。福山雅治の魂のラジオ、Talking FM、福のラジオなどを聴いていた自分としては、とりあえず聴かなければと思い久しぶりに聴いてみることにしました。ちなみに自分が聞いていた頃のJET STREAMの機長は伊武雅刀でした。
