@@ -6,6 +6,8 @@ baseURL = "/"
 title = "なぜかサイバーと呼ばれています"
 theme = "hugo_theme_robust"
 
+googleAnalytics = "UA-81696512-2"
+
 [Params]
 #  description = "趣味のカメラや旅行、コンピュータの話などを気まぐれで。"
   twitter_cards = true
