@@ -13,6 +13,7 @@ googleAnalytics = "UA-81696512-2"
   twitter_cards = true
   readmore = true
   enableHighlight = true # highlight.js option
+  amazonJPAffiliate = "yussi-22"
 
 [Params.author]
 thumbnail = "images/author.jpg"
