@@ -2,7 +2,7 @@ DefaultContentLanguage = "ja"
 languageCode = "ja-JP"
 hasCJKLanguage = true
 
-baseURL = "/"
+baseURL = "https://blog.yussi.info/"
 title = "なぜかサイバーと呼ばれています"
 theme = "hugo_theme_robust"
 
